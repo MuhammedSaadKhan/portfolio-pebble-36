@@ -16,13 +16,13 @@ const About = () => {
             Muhammed Saad Khan
           </h3>
           <h4 className="text-xl font-bold mb-4">
-            Front-end Developer & UI/UX Designer with a passion for creating exceptional digital experiences
+            Student & Aspiring Front-end Developer with a passion for creating exceptional digital experiences
           </h4>
           <p className="text-muted-foreground leading-relaxed">
-            I'm a passionate web developer and designer with over 5 years of experience creating beautiful, functional, and user-friendly websites and applications. I focus on writing clean, elegant and efficient code while designing intuitive user experiences.
+            I'm a passionate student eager to start my journey in web development and design. Although I'm currently at the beginning of my career with no professional experience yet, I'm committed to learning and developing my skills in creating beautiful, functional, and user-friendly websites and applications.
           </p>
           <p className="text-muted-foreground leading-relaxed">
-            My approach combines technical expertise with creative problem-solving. I believe that the best digital products are born from a deep understanding of user needs, meticulous attention to detail, and thoughtful design decisions.
+            My approach focuses on combining technical learning with creative problem-solving. I believe that the best digital products are born from a deep understanding of user needs, meticulous attention to detail, and thoughtful design decisions.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
@@ -30,7 +30,7 @@ const About = () => {
               <Calendar className="text-primary" size={20} />
               <div>
                 <h3 className="font-medium">Experience</h3>
-                <p className="text-sm text-muted-foreground">5+ Years</p>
+                <p className="text-sm text-muted-foreground">Student</p>
               </div>
             </div>
             
@@ -38,7 +38,7 @@ const About = () => {
               <MapPin className="text-primary" size={20} />
               <div>
                 <h3 className="font-medium">Location</h3>
-                <p className="text-sm text-muted-foreground">New York, USA</p>
+                <p className="text-sm text-muted-foreground">Bengaluru, India</p>
               </div>
             </div>
             
@@ -46,14 +46,14 @@ const About = () => {
               <Briefcase className="text-primary" size={20} />
               <div>
                 <h3 className="font-medium">Projects</h3>
-                <p className="text-sm text-muted-foreground">30+ Completed</p>
+                <p className="text-sm text-muted-foreground">Learning Projects</p>
               </div>
             </div>
           </div>
           
           <div className="pt-4 text-center">
             <a href="#contact" className="btn btn-primary">
-              Let's Work Together
+              Let's Connect
             </a>
           </div>
         </div>

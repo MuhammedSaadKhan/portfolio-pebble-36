@@ -15,17 +15,17 @@ const Hero = () => {
             Welcome to my portfolio
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 animate-fade-in opacity-0 [animation-delay:400ms]">
-            <span>I'm a</span> <span className="text-primary">Developer</span>
+            <span>I'm a</span> <span className="text-primary">Student</span>
             <br />
-            <span>Creating digital experiences</span>
+            <span>Aspiring to create digital experiences</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-in opacity-0 [animation-delay:600ms]">
-            I specialize in crafting beautiful user interfaces and intuitive digital experiences 
-            with meticulous attention to detail and a passion for design excellence.
+            I'm currently learning to craft beautiful user interfaces and intuitive digital experiences 
+            with a focus on developing my skills in design and development.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 animate-fade-in opacity-0 [animation-delay:800ms]">
             <a href="#projects" className="btn btn-primary group">
-              View My Work
+              View My Projects
               <span className="absolute inset-0 w-0 bg-white/20 transition-all duration-300 ease-apple-ease group-hover:w-full"></span>
             </a>
             <a href="#contact" className="btn btn-outline">
